@@ -1,4 +1,4 @@
-# PDF Heading Extractor
+# DocuParse: PDF Heading Extractor
 
 A machine learning-based tool that automatically extracts and classifies headings from PDF documents. This project uses font size analysis and machine learning to identify different heading levels (Title, H1, H2, H3, H4) in PDF documents.
 
