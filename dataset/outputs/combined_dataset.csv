@@ -1,0 +1,169 @@
+text,font_size,page,x_position,y_position,source_pdf,level
+Application form for grant of LTC advance,11.67,1,199.86,106.08,file01.pdf,title
+1.,9.74,1,70.02,135.94,file01.pdf,H1
+Name of the Government Servant,9.74,1,96.0,132.99,file01.pdf,H1
+2.,9.74,1,70.02,154.05,file01.pdf,H1
+Designation,9.74,1,96.0,151.05,file01.pdf,H1
+3.,9.74,1,70.02,180.93,file01.pdf,H1
+Date of entering the Central Government,9.74,1,96.0,169.16,file01.pdf,H1
+Service,9.74,1,96.0,186.74,file01.pdf,H1
+4.,9.74,1,70.02,207.8,file01.pdf,H1
+PAY + SI + NPA,9.74,1,96.0,204.86,file01.pdf,H1
+5.,9.74,1,70.02,225.92,file01.pdf,H1
+Whether permanent or temporary,9.74,1,96.0,222.91,file01.pdf,H1
+6.,9.74,1,70.02,241.1,file01.pdf,H1
+Home Town as recorded in the Service Book,9.74,1,96.0,241.1,file01.pdf,H1
+7.,9.74,1,70.02,265.04,file01.pdf,H1
+Whether wife / husband is employed and if,9.74,1,96.0,253.28,file01.pdf,H1
+so whether entitled to LTC,9.74,1,96.0,270.86,file01.pdf,H1
+8.,9.74,1,70.02,309.56,file01.pdf,H1
+Whether the concession is to be availed for,9.74,1,96.0,288.98,file01.pdf,H1
+visiting home town and if so block for which,9.74,1,96.0,306.56,file01.pdf,H1
+LTC is to be availed.,9.74,1,96.0,324.2,file01.pdf,H1
+9.,9.74,1,70.02,362.83,file01.pdf,H1
+(a) If the concession is to visit anywhere in,9.74,1,96.0,342.25,file01.pdf,H1
+"India, the place to be visited.",9.74,1,96.0,359.89,file01.pdf,H1
+(b) Block for which to be availed.,9.74,1,96.0,377.47,file01.pdf,H1
+10.,9.74,1,70.02,416.17,file01.pdf,H1
+Single,9.74,1,96.0,395.59,file01.pdf,H1
+rail,9.74,1,136.14,395.59,file01.pdf,H1
+fare/bus,9.74,1,163.6,395.59,file01.pdf,H1
+fare,9.74,1,213.71,395.59,file01.pdf,H1
+from,9.74,1,244.84,395.59,file01.pdf,H1
+the,9.74,1,279.24,395.59,file01.pdf,H1
+headquarters to home town/place of visit by,9.74,1,96.0,413.17,file01.pdf,H1
+shortest route.,9.74,1,96.0,430.75,file01.pdf,H1
+11.,9.74,1,70.02,498.61,file01.pdf,H1
+Persons in respect of whom LTC is proposed to be availed.,9.74,1,96.0,448.94,file01.pdf,H1
+S.No,9.74,1,96.0,464.06,file01.pdf,H1
+Name,9.74,1,211.41,464.06,file01.pdf,H1
+Age,9.74,1,343.48,464.06,file01.pdf,H1
+Relationship,9.74,1,444.58,464.06,file01.pdf,H1
+1.,9.74,1,103.63,476.24,file01.pdf,H1
+2.,9.74,1,103.63,488.48,file01.pdf,H1
+3.,9.74,1,103.63,500.66,file01.pdf,H1
+4.,9.74,1,103.63,512.96,file01.pdf,H1
+5.,9.74,1,103.63,529.45,file01.pdf,H1
+6.,9.74,1,103.63,541.69,file01.pdf,H1
+12.,9.74,1,70.03,567.01,file01.pdf,H1
+Amount of advance required.,9.74,1,96.01,561.13,file01.pdf,H1
+Rs.,9.74,1,304.39,561.13,file01.pdf,H1
+I declare that the particulars furnished above are true and correct to the best of my knowledge.  I,9.74,1,105.07,596.84,file01.pdf,H1
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,9.74,1,70.03,608.54,file01.pdf,H1
+In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of,9.74,1,105.08,632.06,file01.pdf,H1
+"advance, I undertake to refund the entire advance in one lump sum.",9.74,1,70.04,643.82,file01.pdf,H1
+Date,9.74,1,70.04,678.98,file01.pdf,H1
+Signature of Government Servant.,9.74,1,403.04,690.74,file01.pdf,H1
+Overview,24.0,1,252.65,189.62,file02.pdf,title
+Foundation Level Extensions,24.0,1,139.35,244.84,file02.pdf,title
+Version 1.0,12.0,1,275.69,382.43,file02.pdf,H4
+International Software Testing Qualifications Board,18.0,1,103.34,465.7,file02.pdf,H1
+Overview,12.0,2,74.42,41.58,file02.pdf,H4
+Overview,12.0,3,74.42,41.58,file02.pdf,H4
+Revision History,15.96,3,70.94,108.94,file02.pdf,H2
+Overview,12.0,4,74.42,41.58,file02.pdf,H4
+Table of Contents,15.96,4,70.94,108.94,file02.pdf,H2
+Overview,12.0,5,74.42,41.58,file02.pdf,H4
+Acknowledgements,15.96,5,70.94,108.94,file02.pdf,H2
+Overview,12.0,6,74.42,41.58,file02.pdf,H4
+1.,15.96,6,70.94,122.98,file02.pdf,H2
+Introduction to the Foundation Level Extensions,15.96,6,93.62,122.98,file02.pdf,H2
+Overview,12.0,7,74.42,41.58,file02.pdf,H4
+2.,15.96,7,70.94,122.98,file02.pdf,H2
+Introduction to Foundation Level Agile Tester Extension,15.96,7,93.62,122.98,file02.pdf,H2
+2.1 Intended Audience,14.04,7,70.94,217.35,file02.pdf,H3
+2.2 Career Paths for Testers,14.04,7,70.94,484.52,file02.pdf,H3
+2.3 Learning Objectives,14.04,7,70.94,613.67,file02.pdf,H3
+Overview,12.0,8,74.42,41.58,file02.pdf,H4
+2.4 Entry Requirements,14.04,8,70.94,156.99,file02.pdf,H3
+2.5 Structure and Course Duration,14.04,8,70.94,217.11,file02.pdf,H3
+Overview,12.0,9,74.42,41.58,file02.pdf,H4
+2.6 Keeping It Current,14.04,9,70.94,133.95,file02.pdf,H3
+Overview,12.0,10,74.42,41.58,file02.pdf,H4
+3.,15.96,10,70.94,119.86,file02.pdf,H2
+Overview of the Foundation Level Extension –,15.96,10,93.62,119.86,file02.pdf,H2
+Agile Tester,15.96,10,451.27,119.86,file02.pdf,H2
+Syllabus,15.96,10,106.93,138.34,file02.pdf,H2
+3.1 Business Outcomes,14.04,10,70.94,187.95,file02.pdf,H3
+3.2 Content,14.04,10,70.94,533.0,file02.pdf,H3
+Overview,12.0,11,74.42,41.58,file02.pdf,H4
+Overview,12.0,12,74.42,41.58,file02.pdf,H4
+4.,15.96,12,70.94,122.98,file02.pdf,H2
+References,15.96,12,93.62,122.98,file02.pdf,H2
+4.1 Trademarks,14.04,12,70.94,171.39,file02.pdf,H3
+4.2 Documents and Web Sites,14.04,12,70.94,257.46,file02.pdf,H3
+Ontario’s Libraries,15.96,1,95.44,72.08,file03.pdf,H3
+Working Together,15.96,1,95.44,94.64,file03.pdf,H3
+RFP: R,32.04,1,90.02,156.77,file03.pdf,title
+RFP: R,32.04,1,90.06,156.52,file03.pdf,title
+RFP: R,32.04,1,90.28,156.77,file03.pdf,title
+RFP: Request f,32.04,1,90.31,156.52,file03.pdf,title
+quest f,32.04,1,209.47,156.52,file03.pdf,title
+quest f,32.04,1,209.66,156.77,file03.pdf,title
+quest for Pr,32.04,1,209.66,156.52,file03.pdf,title
+r Pr,32.04,1,332.15,156.52,file03.pdf,title
+r Pr,32.04,1,332.31,156.77,file03.pdf,title
+r Proposal,32.04,1,332.34,156.52,file03.pdf,title
+oposal,32.04,1,385.37,156.52,file03.pdf,title
+oposal,32.04,1,385.53,156.77,file03.pdf,title
+oposal,32.04,1,385.56,156.52,file03.pdf,title
+To Present a Proposal for Developing,24.0,1,131.8,248.4,file03.pdf,H1
+the Business Plan for the Ontario,24.0,1,131.8,276.0,file03.pdf,H1
+Digital Library,24.0,1,131.8,303.6,file03.pdf,H1
+"March 21, 2003",20.04,1,238.24,342.46,file03.pdf,H2
+Ontario’s Digital Library,20.04,2,90.04,88.6,file03.pdf,H2
+A Critical Component for Implementing Ontario’s Road Map to,15.96,2,90.04,120.32,file03.pdf,H3
+Prosperity Strategy,15.96,2,90.04,138.67,file03.pdf,H3
+Summary,12.0,2,96.04,195.72,file03.pdf,H4
+Background,12.0,3,96.04,206.16,file03.pdf,H4
+The Business Plan to be Developed,12.0,6,96.04,459.12,file03.pdf,H4
+Milestones,12.0,7,96.04,270.12,file03.pdf,H4
+Approach and Specific Proposal Requirements,12.0,7,99.52,423.6,file03.pdf,H4
+Evaluation and Awarding of Contract,12.0,8,96.04,81.0,file03.pdf,H4
+Appendix A:  ODL Envisioned Phases & Funding,12.0,9,90.04,107.52,file03.pdf,H4
+Funding Source,12.0,10,114.4,344.1,file03.pdf,H4
+2007,12.0,10,313.36,344.1,file03.pdf,H4
+2017,12.0,10,427.6,344.1,file03.pdf,H4
+Appendix B:,12.0,11,96.04,92.52,file03.pdf,H4
+ODL Steering Committee Terms of Reference,12.0,11,198.02,92.52,file03.pdf,H4
+•,12.0,12,108.04,319.92,file03.pdf,H4
+.,12.0,12,386.68,334.38,file03.pdf,H4
+Appendix C:,12.0,14,96.04,92.52,file03.pdf,H4
+ODL’s Envisioned Electronic Resources,12.0,14,198.0,92.52,file03.pdf,H4
+Parsippany -Troy Hills STEM Pathways,28.01,1,125.82,37.37,file04.pdf,title
+Mission Statement:,14.01,1,80.33,88.69,file04.pdf,H2
+To provide PTHSD high school students with the opportunity to,12.0,1,205.74,93.08,file04.pdf,H3
+"concentrate their studies, beyond those required in high school, in the areas of science,",12.0,1,80.33,108.75,file04.pdf,H3
+"technology, engineering, and mathematics, and expose students to relevant real world",12.0,1,80.33,123.0,file04.pdf,H3
+"experiences through project work, conferences and presentations to enhance their high school",12.0,1,80.33,137.26,file04.pdf,H3
+experience.,12.0,1,80.33,151.51,file04.pdf,H3
+PATHWAY OPTIONS,15.31,1,240.18,438.18,file04.pdf,H1
+REGULAR PATHWAY,15.31,1,117.18,467.75,file04.pdf,H1
+DISTINCTION PATHWAY,15.31,1,351.72,467.75,file04.pdf,H1
+Goals:,14.01,1,45.41,182.64,file04.pdf,H2
+•,11.51,1,41.38,210.97,file04.pdf,H4
+"Inspire keen interest in mathematics, science, engineering, and",11.51,1,45.41,211.27,file04.pdf,H4
+"technology, develop strong scholarship in the subject and",11.51,1,45.41,224.78,file04.pdf,H4
+promote the enjoyment of these studies in high school.,11.51,1,45.41,238.29,file04.pdf,H4
+•,11.51,1,41.38,251.5,file04.pdf,H4
+Expose students to potential career opportunities in the field.,11.51,1,45.41,251.8,file04.pdf,H4
+•,11.51,1,41.38,265.01,file04.pdf,H4
+Encourage students to pursue higher education and major in,11.51,1,45.41,265.31,file04.pdf,H4
+STEM careers.,11.51,1,45.41,278.82,file04.pdf,H4
+• Promote interactions with STEM professionals to learn about,11.51,1,39.68,292.33,file04.pdf,H4
+future opportunities.,11.51,1,45.41,305.84,file04.pdf,H4
+• Support field experiences connected to the world outside of,11.51,1,39.68,319.35,file04.pdf,H4
+the school building.,11.51,1,45.41,332.86,file04.pdf,H4
+"• Signal to employers, universities, training programs, and",11.51,1,39.68,346.38,file04.pdf,H4
+military that a student has completed a comprehensive course,11.51,1,45.41,359.89,file04.pdf,H4
+of study in a specialized area.,11.51,1,45.41,373.4,file04.pdf,H4
+"• Cultivate transferable work habits such as perseverance, goal",11.51,1,39.68,386.91,file04.pdf,H4
+"setting, and self-direction.",11.51,1,45.41,400.42,file04.pdf,H4
+----------------,26.67,1,71.79,523.57,file05.pdf,title
+HOPE,22.7,1,33.42,598.6,file05.pdf,H3
+To,26.4,1,94.39,598.6,file05.pdf,H1
+SEE,22.5,1,130.6,598.6,file05.pdf,H4
+Y,26.4,1,175.45,598.6,file05.pdf,H1
+ou,24.49,1,192.2,598.6,file05.pdf,H2
+T,26.4,1,226.62,598.6,file05.pdf,H1
+!,26.4,1,290.64,598.6,file05.pdf,H1

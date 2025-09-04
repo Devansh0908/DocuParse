@@ -1,0 +1,169 @@
+text,level,font_size,page,x_position,y_position,source_pdf,label
+Application form for grant of LTC advance,title,11.67,1,199.86,106.08,file01.pdf,title
+1.,H1,9.74,1,70.02,135.94,file01.pdf,H1
+Name of the Government Servant,H1,9.74,1,96.0,132.99,file01.pdf,H1
+2.,H1,9.74,1,70.02,154.05,file01.pdf,H1
+Designation,H1,9.74,1,96.0,151.05,file01.pdf,H1
+3.,H1,9.74,1,70.02,180.93,file01.pdf,H1
+Date of entering the Central Government,H1,9.74,1,96.0,169.16,file01.pdf,H1
+Service,H1,9.74,1,96.0,186.74,file01.pdf,H1
+4.,H1,9.74,1,70.02,207.8,file01.pdf,H1
+PAY + SI + NPA,H1,9.74,1,96.0,204.86,file01.pdf,H1
+5.,H1,9.74,1,70.02,225.92,file01.pdf,H1
+Whether permanent or temporary,H1,9.74,1,96.0,222.91,file01.pdf,H1
+6.,H1,9.74,1,70.02,241.1,file01.pdf,H1
+Home Town as recorded in the Service Book,H1,9.74,1,96.0,241.1,file01.pdf,H1
+7.,H1,9.74,1,70.02,265.04,file01.pdf,H1
+Whether wife / husband is employed and if,H1,9.74,1,96.0,253.28,file01.pdf,H1
+so whether entitled to LTC,H1,9.74,1,96.0,270.86,file01.pdf,H1
+8.,H1,9.74,1,70.02,309.56,file01.pdf,H1
+Whether the concession is to be availed for,H1,9.74,1,96.0,288.98,file01.pdf,H1
+visiting home town and if so block for which,H1,9.74,1,96.0,306.56,file01.pdf,H1
+LTC is to be availed.,H1,9.74,1,96.0,324.2,file01.pdf,H1
+9.,H1,9.74,1,70.02,362.83,file01.pdf,H1
+(a) If the concession is to visit anywhere in,H1,9.74,1,96.0,342.25,file01.pdf,H1
+"India, the place to be visited.",H1,9.74,1,96.0,359.89,file01.pdf,H1
+(b) Block for which to be availed.,H1,9.74,1,96.0,377.47,file01.pdf,H1
+10.,H1,9.74,1,70.02,416.17,file01.pdf,H1
+Single,H1,9.74,1,96.0,395.59,file01.pdf,H1
+rail,H1,9.74,1,136.14,395.59,file01.pdf,H1
+fare/bus,H1,9.74,1,163.6,395.59,file01.pdf,H1
+fare,H1,9.74,1,213.71,395.59,file01.pdf,H1
+from,H1,9.74,1,244.84,395.59,file01.pdf,H1
+the,H1,9.74,1,279.24,395.59,file01.pdf,H1
+headquarters to home town/place of visit by,H1,9.74,1,96.0,413.17,file01.pdf,H1
+shortest route.,H1,9.74,1,96.0,430.75,file01.pdf,H1
+11.,H1,9.74,1,70.02,498.61,file01.pdf,H1
+Persons in respect of whom LTC is proposed to be availed.,H1,9.74,1,96.0,448.94,file01.pdf,H1
+S.No,H1,9.74,1,96.0,464.06,file01.pdf,H1
+Name,H1,9.74,1,211.41,464.06,file01.pdf,H1
+Age,H1,9.74,1,343.48,464.06,file01.pdf,H1
+Relationship,H1,9.74,1,444.58,464.06,file01.pdf,H1
+1.,H1,9.74,1,103.63,476.24,file01.pdf,H1
+2.,H1,9.74,1,103.63,488.48,file01.pdf,H1
+3.,H1,9.74,1,103.63,500.66,file01.pdf,H1
+4.,H1,9.74,1,103.63,512.96,file01.pdf,H1
+5.,H1,9.74,1,103.63,529.45,file01.pdf,H1
+6.,H1,9.74,1,103.63,541.69,file01.pdf,H1
+12.,H1,9.74,1,70.03,567.01,file01.pdf,H1
+Amount of advance required.,H1,9.74,1,96.01,561.13,file01.pdf,H1
+Rs.,H1,9.74,1,304.39,561.13,file01.pdf,H1
+I declare that the particulars furnished above are true and correct to the best of my knowledge.  I,H1,9.74,1,105.07,596.84,file01.pdf,H1
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,H1,9.74,1,70.03,608.54,file01.pdf,H1
+In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of,H1,9.74,1,105.08,632.06,file01.pdf,H1
+"advance, I undertake to refund the entire advance in one lump sum.",H1,9.74,1,70.04,643.82,file01.pdf,H1
+Date,H1,9.74,1,70.04,678.98,file01.pdf,H1
+Signature of Government Servant.,H1,9.74,1,403.04,690.74,file01.pdf,H1
+Overview,title,24.0,1,252.65,189.62,file02.pdf,title
+Foundation Level Extensions,title,24.0,1,139.35,244.84,file02.pdf,title
+Version 1.0,H4,12.0,1,275.69,382.43,file02.pdf,H4
+International Software Testing Qualifications Board,H1,18.0,1,103.34,465.7,file02.pdf,H1
+Overview,H4,12.0,2,74.42,41.58,file02.pdf,H4
+Overview,H4,12.0,3,74.42,41.58,file02.pdf,H4
+Revision History,H2,15.96,3,70.94,108.94,file02.pdf,H2
+Overview,H4,12.0,4,74.42,41.58,file02.pdf,H4
+Table of Contents,H2,15.96,4,70.94,108.94,file02.pdf,H2
+Overview,H4,12.0,5,74.42,41.58,file02.pdf,H4
+Acknowledgements,H2,15.96,5,70.94,108.94,file02.pdf,H2
+Overview,H4,12.0,6,74.42,41.58,file02.pdf,H4
+1.,H2,15.96,6,70.94,122.98,file02.pdf,H2
+Introduction to the Foundation Level Extensions,H2,15.96,6,93.62,122.98,file02.pdf,H2
+Overview,H4,12.0,7,74.42,41.58,file02.pdf,H4
+2.,H2,15.96,7,70.94,122.98,file02.pdf,H2
+Introduction to Foundation Level Agile Tester Extension,H2,15.96,7,93.62,122.98,file02.pdf,H2
+2.1 Intended Audience,H3,14.04,7,70.94,217.35,file02.pdf,H3
+2.2 Career Paths for Testers,H3,14.04,7,70.94,484.52,file02.pdf,H3
+2.3 Learning Objectives,H3,14.04,7,70.94,613.67,file02.pdf,H3
+Overview,H4,12.0,8,74.42,41.58,file02.pdf,H4
+2.4 Entry Requirements,H3,14.04,8,70.94,156.99,file02.pdf,H3
+2.5 Structure and Course Duration,H3,14.04,8,70.94,217.11,file02.pdf,H3
+Overview,H4,12.0,9,74.42,41.58,file02.pdf,H4
+2.6 Keeping It Current,H3,14.04,9,70.94,133.95,file02.pdf,H3
+Overview,H4,12.0,10,74.42,41.58,file02.pdf,H4
+3.,H2,15.96,10,70.94,119.86,file02.pdf,H2
+Overview of the Foundation Level Extension –,H2,15.96,10,93.62,119.86,file02.pdf,H2
+Agile Tester,H2,15.96,10,451.27,119.86,file02.pdf,H2
+Syllabus,H2,15.96,10,106.93,138.34,file02.pdf,H2
+3.1 Business Outcomes,H3,14.04,10,70.94,187.95,file02.pdf,H3
+3.2 Content,H3,14.04,10,70.94,533.0,file02.pdf,H3
+Overview,H4,12.0,11,74.42,41.58,file02.pdf,H4
+Overview,H4,12.0,12,74.42,41.58,file02.pdf,H4
+4.,H2,15.96,12,70.94,122.98,file02.pdf,H2
+References,H2,15.96,12,93.62,122.98,file02.pdf,H2
+4.1 Trademarks,H3,14.04,12,70.94,171.39,file02.pdf,H3
+4.2 Documents and Web Sites,H3,14.04,12,70.94,257.46,file02.pdf,H3
+Ontario’s Libraries,H3,15.96,1,95.44,72.08,file03.pdf,H3
+Working Together,H3,15.96,1,95.44,94.64,file03.pdf,H3
+RFP: R,title,32.04,1,90.02,156.77,file03.pdf,title
+RFP: R,title,32.04,1,90.06,156.52,file03.pdf,title
+RFP: R,title,32.04,1,90.28,156.77,file03.pdf,title
+RFP: Request f,title,32.04,1,90.31,156.52,file03.pdf,title
+quest f,title,32.04,1,209.47,156.52,file03.pdf,title
+quest f,title,32.04,1,209.66,156.77,file03.pdf,title
+quest for Pr,title,32.04,1,209.66,156.52,file03.pdf,title
+r Pr,title,32.04,1,332.15,156.52,file03.pdf,title
+r Pr,title,32.04,1,332.31,156.77,file03.pdf,title
+r Proposal,title,32.04,1,332.34,156.52,file03.pdf,title
+oposal,title,32.04,1,385.37,156.52,file03.pdf,title
+oposal,title,32.04,1,385.53,156.77,file03.pdf,title
+oposal,title,32.04,1,385.56,156.52,file03.pdf,title
+To Present a Proposal for Developing,H1,24.0,1,131.8,248.4,file03.pdf,H1
+the Business Plan for the Ontario,H1,24.0,1,131.8,276.0,file03.pdf,H1
+Digital Library,H1,24.0,1,131.8,303.6,file03.pdf,H1
+"March 21, 2003",H2,20.04,1,238.24,342.46,file03.pdf,H2
+Ontario’s Digital Library,H2,20.04,2,90.04,88.6,file03.pdf,H2
+A Critical Component for Implementing Ontario’s Road Map to,H3,15.96,2,90.04,120.32,file03.pdf,H3
+Prosperity Strategy,H3,15.96,2,90.04,138.67,file03.pdf,H3
+Summary,H4,12.0,2,96.04,195.72,file03.pdf,H4
+Background,H4,12.0,3,96.04,206.16,file03.pdf,H4
+The Business Plan to be Developed,H4,12.0,6,96.04,459.12,file03.pdf,H4
+Milestones,H4,12.0,7,96.04,270.12,file03.pdf,H4
+Approach and Specific Proposal Requirements,H4,12.0,7,99.52,423.6,file03.pdf,H4
+Evaluation and Awarding of Contract,H4,12.0,8,96.04,81.0,file03.pdf,H4
+Appendix A:  ODL Envisioned Phases & Funding,H4,12.0,9,90.04,107.52,file03.pdf,H4
+Funding Source,H4,12.0,10,114.4,344.1,file03.pdf,H4
+2007,H4,12.0,10,313.36,344.1,file03.pdf,H4
+2017,H4,12.0,10,427.6,344.1,file03.pdf,H4
+Appendix B:,H4,12.0,11,96.04,92.52,file03.pdf,H4
+ODL Steering Committee Terms of Reference,H4,12.0,11,198.02,92.52,file03.pdf,H4
+•,H4,12.0,12,108.04,319.92,file03.pdf,H4
+.,H4,12.0,12,386.68,334.38,file03.pdf,H4
+Appendix C:,H4,12.0,14,96.04,92.52,file03.pdf,H4
+ODL’s Envisioned Electronic Resources,H4,12.0,14,198.0,92.52,file03.pdf,H4
+Parsippany -Troy Hills STEM Pathways,title,28.01,1,125.82,37.37,file04.pdf,title
+Mission Statement:,H2,14.01,1,80.33,88.69,file04.pdf,H2
+To provide PTHSD high school students with the opportunity to,H3,12.0,1,205.74,93.08,file04.pdf,H3
+"concentrate their studies, beyond those required in high school, in the areas of science,",H3,12.0,1,80.33,108.75,file04.pdf,H3
+"technology, engineering, and mathematics, and expose students to relevant real world",H3,12.0,1,80.33,123.0,file04.pdf,H3
+"experiences through project work, conferences and presentations to enhance their high school",H3,12.0,1,80.33,137.26,file04.pdf,H3
+experience.,H3,12.0,1,80.33,151.51,file04.pdf,H3
+PATHWAY OPTIONS,H1,15.31,1,240.18,438.18,file04.pdf,H1
+REGULAR PATHWAY,H1,15.31,1,117.18,467.75,file04.pdf,H1
+DISTINCTION PATHWAY,H1,15.31,1,351.72,467.75,file04.pdf,H1
+Goals:,H2,14.01,1,45.41,182.64,file04.pdf,H2
+•,H4,11.51,1,41.38,210.97,file04.pdf,H4
+"Inspire keen interest in mathematics, science, engineering, and",H4,11.51,1,45.41,211.27,file04.pdf,H4
+"technology, develop strong scholarship in the subject and",H4,11.51,1,45.41,224.78,file04.pdf,H4
+promote the enjoyment of these studies in high school.,H4,11.51,1,45.41,238.29,file04.pdf,H4
+•,H4,11.51,1,41.38,251.5,file04.pdf,H4
+Expose students to potential career opportunities in the field.,H4,11.51,1,45.41,251.8,file04.pdf,H4
+•,H4,11.51,1,41.38,265.01,file04.pdf,H4
+Encourage students to pursue higher education and major in,H4,11.51,1,45.41,265.31,file04.pdf,H4
+STEM careers.,H4,11.51,1,45.41,278.82,file04.pdf,H4
+• Promote interactions with STEM professionals to learn about,H4,11.51,1,39.68,292.33,file04.pdf,H4
+future opportunities.,H4,11.51,1,45.41,305.84,file04.pdf,H4
+• Support field experiences connected to the world outside of,H4,11.51,1,39.68,319.35,file04.pdf,H4
+the school building.,H4,11.51,1,45.41,332.86,file04.pdf,H4
+"• Signal to employers, universities, training programs, and",H4,11.51,1,39.68,346.38,file04.pdf,H4
+military that a student has completed a comprehensive course,H4,11.51,1,45.41,359.89,file04.pdf,H4
+of study in a specialized area.,H4,11.51,1,45.41,373.4,file04.pdf,H4
+"• Cultivate transferable work habits such as perseverance, goal",H4,11.51,1,39.68,386.91,file04.pdf,H4
+"setting, and self-direction.",H4,11.51,1,45.41,400.42,file04.pdf,H4
+----------------,title,26.67,1,71.79,523.57,file05.pdf,title
+HOPE,H3,22.7,1,33.42,598.6,file05.pdf,H3
+To,H1,26.4,1,94.39,598.6,file05.pdf,H1
+SEE,H4,22.5,1,130.6,598.6,file05.pdf,H4
+Y,H1,26.4,1,175.45,598.6,file05.pdf,H1
+ou,H2,24.49,1,192.2,598.6,file05.pdf,H2
+T,H1,26.4,1,226.62,598.6,file05.pdf,H1
+!,H1,26.4,1,290.64,598.6,file05.pdf,H1
